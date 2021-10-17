@@ -22,3 +22,7 @@ Nice model Thanks.
 ### BLTouch Leveling Sensor - Downloaded from GRABCAD
 The model of the BLTouch bed-leveling sensor came from here https://grabcad.com/library/bltouch-v3-1-1
 Nice model Thanks.
+
+### e3d Slimline Stepper - downloaded from ???
+
+### M12 Linear Rail and Guide - DOwnloaded from Manufacture
