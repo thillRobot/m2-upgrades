@@ -8,7 +8,10 @@ Several of the components used while designing the upgrades came from external s
 - `m2-titan-body.sldprt/.stl`
 - `m2-titan-body.sldprt/.stl`
 
-### e3d Titan Aero Carriage Replacement - designed and modeled by thillRobot
+### Titan Aero Carriage for M2 - designed and modeled by thillRobot
+
+![Titan Aero Carriage for M2](/images/m2-titan-closeup-01.png)
+
 - `m2-titan-xaxis-plate.sldprt/.stl`
 - `m2-titan-motor-plate.sldprt/.stl`
 - `m2-front-motor-plate.sldprt/.stl`
