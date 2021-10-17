@@ -10,7 +10,7 @@ Several of the components used while designing the upgrades came from external s
 
 ### Titan Aero Carriage for M2 - designed and modeled by thillRobot
 
-![Titan Aero Carriage for M2](/images/m2-titan-closeup-01.png)
+![Titan Aero Carriage for M2](/images/m2-titan-closeup-01.PNG)
 
 - `m2-titan-xaxis-plate.sldprt/.stl`
 - `m2-titan-motor-plate.sldprt/.stl`
