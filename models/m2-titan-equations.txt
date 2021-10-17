@@ -1,8 +1,9 @@
 ﻿"motor_plate_thickness"=4
 
-"motor_hub_diameter"=24
+"motor_hub_diameter"=25
 
-"motor_mount_hole_od"=4
+"motor_mount_hole_od"=3.5
 
 "motor_mount_hole_spacing"=31
+
 
