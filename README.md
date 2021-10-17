@@ -8,9 +8,17 @@ Several of the components used while designing the upgrades came from external s
 - `m2-titan-body.sldprt/.stl`
 - `m2-titan-body.sldprt/.stl`
 
-### e3d Titan Aero Carriage Replacement
+### e3d Titan Aero Carriage Replacement - designed and modeled by thillRobot
 - `m2-titan-xaxis-plate.sldprt/.stl`
 - `m2-titan-motor-plate.sldprt/.stl`
 - `m2-front-motor-plate.sldprt/.stl`
 - `m2-cooling-duct.sldprt/.stl`
 - `m2-cooling-nozzle.sldprt/.stl`
+
+### e3d Titan Aero Extruder - downloaded from GRADCAD
+The model of the extruder come from here https://grabcad.com/library/titan-aero-mount-for-pminifab-1 
+Nice model Thanks.
+
+### BLTouch Leveling Sensor - Downloaded from GRABCAD
+The model of the BLTouch bed-leveling sensor came from here https://grabcad.com/library/bltouch-v3-1-1
+Nice model Thanks.
