@@ -1,4 +1,4 @@
-﻿"motor_plate_thickness"=4
+"motor_plate_thickness"=4
 
 "motor_hub_diameter"=25
 
