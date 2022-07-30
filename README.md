@@ -14,7 +14,7 @@ The first prototype shown below has been very successful, but some revisions are
 
 ## Watch 
 
-See the machine run on [youtube}(https://youtube.com/shorts/DwfdXQJtwjs?feature=share). This video was taken after at least 100 hours of print time. 
+See the machine run on [youtube](https://youtube.com/shorts/DwfdXQJtwjs?feature=share). This video was taken after at least 100 hours of print time. 
 
 
 ## CAD File References
