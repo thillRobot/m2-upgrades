@@ -1,6 +1,22 @@
 # m2-upgrades
 A collection of upgrades for the MakerGear M2 printer including the Titan Aero carriage replacement. 
 
+## Updates
+
+The first prototype shown below has been very successful, but some revisions are needed.
+
+- Issue: Bed space is lost because the carriage cannot reach the x=0 due to a spacial conflict with the stepper motor and the printer frame. 
+
+- Possible Solution: Rotate the carriage 90 or 180 degrees so that it can move close to the frame of the robot near x=0.
+
+- Issue: The cooling fan duct failed after about 100 hours! Not bad for a poor attempt, this needs redesign with a rethought positioning of the attachment bolt, or maybe no bolt at all...
+
+
+## Watch 
+
+See the machine run on [youtube}(https://youtube.com/shorts/DwfdXQJtwjs?feature=share). This video was taken after at least 100 hours of print time. 
+
+
 ## CAD File References
 Several of the components used while designing the upgrades came from external sources. There is not intention of taking credit for others work. If I miss a reference, please let me know and it will be corrected. 
 
